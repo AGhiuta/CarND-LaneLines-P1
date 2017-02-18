@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 [image6]: ./intermediary/edges.jpg "Edges"
 [image7]: ./intermediary/edges_masked.jpg "Edges_masked"
 [image8]: ./intermediary/hough_lines.jpg "Hough_lines"
-[image9]: ./results/out-whiteCarLaneSwitch.jpg "Out"
+[image9]: ./test_images/out-whiteCarLaneSwitch.jpg "Out"
 
 ---
 
